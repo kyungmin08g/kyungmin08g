@@ -15,7 +15,7 @@
 
 <h3><img align="left" />my github stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&show_icons=true&locale=en" alt="kyungmin08g" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&show_icons=true&locale=en" alt="kyungmin08g" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyungmin08g&" alt="kyungmin08g" /></p>
 
