@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
 
+- 🌱 I'm studying spring boot right now **Spring Boot**
+
+- 💬 Ask me about **Java**
+
 - 📫 How to reach me **kyungmin2892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
