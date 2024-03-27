@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
 
-- 🌱 I'm studying spring boot right now **Spring Boot**
+- 🌱 I'm studying **Spring Boot**
 
 - 💬 Ask me about **Java**
 
