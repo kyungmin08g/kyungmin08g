@@ -1,9 +1,11 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm KyungMin</h1>
-<h3 align="left">I am a high school student who dreams of becoming a web developer.</h3>
+<h1 align="center">Hi 👋, I'm KyungMin</h1>
+<h3 align="center">I am a high school student who dreams of becoming a web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
+
+- 📫 How to reach me **kyungmin2892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyungmin&show_icons=true&locale=en&layout=compact" alt="kyungmin" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kyungmin&show_icons=true&locale=en" alt="kyungmin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyungmin&show_icons=true&locale=en" alt="kyungmin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyungmin&" alt="kyungmin" /></p>
