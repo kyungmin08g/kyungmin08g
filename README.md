@@ -3,12 +3,12 @@
 <h1 align="left">Hi 👋, I'm KyungMin</h1>
 <h3 align="left">I am a high school student who dreams of becoming a web developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/k.k.m5959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.k.m5959" height="30" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
 
 - 🌱 I'm studying **Spring Boot**
 
