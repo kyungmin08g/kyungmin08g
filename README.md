@@ -1,15 +1,15 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm KyungMin</h1>
-<h3 align="left">I am a high school student who dreams of becoming a web developer.</h3>
+<h1 align="left">안녕하세요! 저는 김경민입니다.</h1>
+<h3 align="left">백엔드 개발자가 꿈인 고딩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyungmin&label=Profile%20views&color=0e75b6&style=flat" alt="kyungmin" /> </p>
 
-- 🌱 I'm studying **Spring Boot**
+- 🌱 배우는 것 **Spring Boot**
 
-- 💬 Ask me about **Java**
+- 💬 저한테 물어보세요! **Java**
 
-- 📫 How to reach me **kyungmin2892@gmail.com**
+- 📫 메일 **kyungmin2892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
