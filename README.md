@@ -32,7 +32,7 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&custom_title=kyungmin08g's Github Stat&bg_color=60,000000,bc2929&title_color=ffffff&text_color=ffffff"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=60,000000,bc2929&title_color=ffffff&text_color=ffffff"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=60,000000,bc2929&title_color=ffffff&text_color=ffffff"/>
+    </div> 
     </div>
