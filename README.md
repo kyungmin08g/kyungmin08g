@@ -32,4 +32,5 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungmin08g&show_icons=true&theme=radical)
     
