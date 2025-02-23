@@ -3,7 +3,6 @@
   <b>세상에 필요한 가치를 제공하는 서비스를 만들고 싶은 고등학생ㆍ백엔드 개발자</b>
 </p>
 
-
 **👋 안녕하세요!?**<br/>
 저는 새로운 지식을 빠르게 학습하고,</br>
 도움이 되는 서비스를 만드려는 고등학생ㆍ백엔드 개발자에요. (정식(?) 개발자는 아닙니다ㅋㅋㅋ)</br>
@@ -38,7 +37,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Language </h2> 
+    <h2> Language </h2>
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"/>
     </div>
