@@ -39,14 +39,12 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/kyu_x99> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyu_x99"> </a>
-         <a href=https://myblog0080.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://myblog0080.tistory.com/"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2><br> 
+        <a href=https://www.instagram.com/kyu_x99>
+        <a href=https://myblog0080.tistory.com/>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Language </h2> <div style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Language </h2> <div style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
