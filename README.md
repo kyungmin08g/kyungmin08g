@@ -16,6 +16,7 @@
 
 저는 중2때부터 프로그래밍을 해왔어요. JavaScript, Swift, Java, Kotlin등 다양한 언어들을 사용하면서</br>
 저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.
+지금 당장의 목표는 팀플을 많이해서 협업 경험을 쌓는거에요.
 
 
 <div align= "center">
