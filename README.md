@@ -40,8 +40,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2><br> 
-        <a href=https://www.instagram.com/kyu_x99>
-        <a href=https://myblog0080.tistory.com/>
+        <a href="https://www.instagram.com/kyu_x99">Instagram</a>
+        <a href="https://myblog0080.tistory.com/">Blog</a>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Language </h2> <div style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
