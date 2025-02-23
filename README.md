@@ -18,7 +18,6 @@
 저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.</br>
 지금 당장의 목표는 팀플을 많이해서 협업 경험을 쌓는거에요.
 
-
 <div align="left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
@@ -38,15 +37,17 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;">
-    <h2> Contact me </h2>
-      <ul>
-          <li><a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
-          <li><a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
-      </ul>
-    </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Language </h2> <div style="text-align: left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Language </h2> 
+    <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"/>
     </div>
+    <div style="text-align: left;">
+        <h2> Contact me </h2>
+        <ul>
+            <li><a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
+            <li><a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
+        </ul>
+    </div>
+</div>
     
