@@ -37,12 +37,12 @@
           <br/></div>
     </div>
     <div style="text-align: left;"> 
-    <h2> Language </h2>
+    <h3> Language </h3>
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"/>
     </div>
     <div style="text-align: left;">
-        <h2> Contact me </h2>
+        <h3> Contact me </h3>
         <ul>
             <li><a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
             <li><a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
