@@ -41,8 +41,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2><br> 
       <ul>
-          <li><a href="https://www.instagram.com/kyu_x99">[instagram](https://www.instagram.com/kyu_x99)</a></li>
-          <li><a href="https://myblog0080.tistory.com/">[blog](https://myblog0080.tistory.com)</a></li>
+          <li><a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
+          <li><a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
       </ul>
     </div>
     <div style="text-align: left;"> 
