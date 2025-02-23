@@ -8,14 +8,11 @@
 저는 새로운 지식을 빠르게 학습하고,</br>
 도움이 되는 서비스를 만드려는 고등학생ㆍ백엔드 개발자에요.(정식(?) 개발자는 아닙니다ㅋㅋㅋ)</br>
 
-저는 프로그래밍을 통해 배움과 나눔을 실천합니다.
+저는 프로그래밍을 통해 배움과 나눔을 실천하려고 해요.
 <ul>
   <li>배움: 복잡한 문제를 창의적으로 해결하는 능력을 키우는 것</li>
   <li>나눔: 세상에 필요한 가치를 제공하는 서비스를 만드는 것</li>
 </ul>
-
-저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
-하지만 꿈을 이루고 싶은 열정을 위해 Cloud Development Platform을 구축하여 저를 발전시키고 있어요.
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20world!&animation=fadeIn&fontColor=000000&fontSize=50" />
