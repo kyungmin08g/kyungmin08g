@@ -1,3 +1,22 @@
+<h1 align="center">경민127</h1>
+<p align="center">
+  <b>삶과 세상에 유기적인 역할을 하는 프로그램을 만드는 대학생ㆍ개발자.</b>
+</p>
+
+
+**👋 안녕하세요..?**<br/>
+저는 새로운 지식을 자유롭게 받아들이고,</br>
+도움이 되는 프로그램을 만드려는 대학생ㆍ개발자에요.</br>
+
+저는 두 가지의 꿈을 이루기 위해 프로그래밍을 하고 있어요.
+<ul>
+  <li>현대 시대에서 시멘트는 건물의 빈틈을 메꾸는 것처럼,</br>세상과 삶에 빈틈을 메꿀 수 있는 프로그램을 만들기 위해 항상 연구 및 개발을 하고 있어요.</li>
+  <li>인생을 살아가며 느끼는 삶의 불편한 요소를 해결하는 프로그램을 만들어보고 있어요.</li>
+</ul>
+
+저는 대한민국 의무복무를 다하기 위해 24년 4월 2일부 입대를 하였어요.<br/>
+하지만 꿈을 이루고 싶은 열정을 위해 Cloud Development Platform을 구축하여 저를 발전시키고 있어요.
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20world!&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
