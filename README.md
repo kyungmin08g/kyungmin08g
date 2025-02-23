@@ -14,7 +14,8 @@
   <li>나눔: 세상에 필요한 가치를 제공하는 서비스를 만드는 것</li>
 </ul>
 
-저는 중2때부터 프로그래밍을 해왔어요.</br>여러 언어를 사용하면서 저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.<br/>
+저는 중2때부터 프로그래밍을 해왔어요. JavaScript, Swift, Java, Kotlin등 다양한 언어들을 사용하면서</br>
+저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.
 
 
 <div align= "center">
