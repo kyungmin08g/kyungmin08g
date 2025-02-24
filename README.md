@@ -38,7 +38,7 @@
     <div style="text-align: left;"> 
     <h3> Language </h3>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"/>    
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,000000,ffffff&title_color=ffffff&text_color=ffffff"/>    
     </div>
     <div style="text-align: left;">
         <h3> Contact me </h3>
