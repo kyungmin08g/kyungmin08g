@@ -43,8 +43,8 @@
     <div style="text-align: left;">
         <h3> Contact me </h3>
         <ul>
-            <li><a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
-            <li><a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
+            <li>인스타그램: <a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
+            <li>기술 블로그: <a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
         </ul>
     </div>
 </div>
