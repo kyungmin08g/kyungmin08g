@@ -45,6 +45,7 @@
         <ul>
             <li>인스타그램: <a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
             <li>기술 블로그: <a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
+            <li>기술 블로그: <a href="https://www.notion.so/Katsee-1a9286b626a68065a2f3c9f5135c6cf9?pvs=4">https://www.notion.so/Katsee-1a9286b626a68065a2f3c9f5135c6cf9?pvs=4</a></li>
         </ul>
     </div>
 </div>
