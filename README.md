@@ -15,6 +15,8 @@
 저는 중2때부터 프로그래밍을 해왔어요. JavaScript, Swift, Java, Kotlin등 다양한 언어들을 사용하면서</br>
 저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.</br>
 
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=notion&logoColor=white"/>
+
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
