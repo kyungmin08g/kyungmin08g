@@ -1,4 +1,4 @@
-<h1 align="center">경민127</h1>
+<h1 align="center">경민</h1>
 <p align="center">
   <b>세상에 필요한 가치를 제공하는 서비스를 만들고 싶은 고등학생ㆍ백엔드 개발자</b>
 </p>
