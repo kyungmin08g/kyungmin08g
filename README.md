@@ -9,7 +9,8 @@
 
 저는 중2때부터 프로그래밍을 해왔어요. JavaScript, Swift, Java, Kotlin등 다양한 언어들을 사용하면서</br>
 저의 적성에 맞는 Java를 선택해 지금은 Java + Spring으로 서버 개발을 하고 있어요.</br>
-장기적으로는 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶어요!
+</br>
+장기적으로는 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.
 
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
