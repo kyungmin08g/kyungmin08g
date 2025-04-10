@@ -34,12 +34,4 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
     </div>
-    <div style="text-align: left;">
-        <h3> About me </h3>
-        <ul>
-            <li>인스타그램: <a href="https://www.instagram.com/kyu_x99">https://www.instagram.com/kyu_x99</a></li>
-            <li>기술 블로그: <a href="https://myblog0080.tistory.com/">https://myblog0080.tistory.com</a></li>
-        </ul>
-    </div>
 </div>
-    
