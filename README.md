@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/c3e005d2-1bfb-4e53-a656-fabe10e65e74)
-![_ (33)](https://github.com/user-attachments/assets/60246c28-bbf0-42d6-9d38-c61c50c1dffb)
+![Image](https://github.com/user-attachments/assets/753b63b9-12f9-4061-9213-bcd5b39af409)
 
 <h1 align="center">경민</h1>
 <p align="center">
