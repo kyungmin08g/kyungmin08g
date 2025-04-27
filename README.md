@@ -1,9 +1,9 @@
+![Image](https://github.com/user-attachments/assets/a4476b6b-ea77-4e2d-ba4f-e97bbeddb2da)
+
 <h1 align="center">경민</h1>
 <p align="center">
   <b>세상에 필요한 가치를 제공하는 서비스를 만들고 싶은 고등학생ㆍ백엔드 개발자</b>
 </p>
-
-![Image](https://github.com/user-attachments/assets/5093475c-d362-4eb8-99d7-e2f938e84ff1)
 
 **👋 안녕하세요**<br/>
 저는 새로운 지식을 빠르게 학습하고,</br>
