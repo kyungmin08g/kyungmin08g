@@ -9,10 +9,10 @@
 
 저는 중학교 2학년 때부터 프로그래밍을 시작했어요. JavaScript, Swift, Java, Kotlin 등 다양한 언어를 경험하면서</br>
 Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 활용한 서버 개발과 사용자 경험을 고려한 효율적인 API 설계를 연구하고 있고,</br>
-대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.
+대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.</br>
 
 ## 📈 GitHub 활동 그래프
-[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=light&color=000000&point=000000&border=000000)](https://github.com/kyungmin08g)
+[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark)](https://github.com/kyungmin08g)
 
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
