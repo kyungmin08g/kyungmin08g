@@ -12,7 +12,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
 <div align="left">
