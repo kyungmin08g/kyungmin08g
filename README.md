@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/753b63b9-12f9-4061-9213-bcd5b39af409)
-
 <h1 align="center">경민</h1>
 <p align="center">
   <b>세상에 필요한 가치를 제공하는 서비스를 만들고 싶은 고등학생ㆍ백엔드 개발자</b>
