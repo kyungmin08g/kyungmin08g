@@ -11,9 +11,6 @@
 Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 활용한 서버 개발과 사용자 경험을 고려한 효율적인 API 설계를 연구하고 있고,</br>
 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.</br>
 
-### GitHub 활동 그래프
-[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark)](https://github.com/kyungmin08g)
-
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
@@ -38,3 +35,6 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
     </div>
 </div>
+
+### GitHub 활동 그래프
+[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark)](https://github.com/kyungmin08g)
