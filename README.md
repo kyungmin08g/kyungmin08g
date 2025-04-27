@@ -12,7 +12,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.
 
 ## 📈 GitHub 활동 그래프
-[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark&area=true&color=00ffff&point=ff00ff&border=ffffff)](https://github.com/kyungmin08g)
+[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark&area=true&color=h=ffffff&point=ff00ff&border=ffffff)](https://github.com/kyungmin08g)
 
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
