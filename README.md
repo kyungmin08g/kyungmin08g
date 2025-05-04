@@ -36,6 +36,3 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
     </div>
 </div>
-
-### GitHub 활동 그래프
-[![kyungmin08g's GitHub activity graph](https://github-activity-graph.vercel.app/graph?username=kyungmin08g&theme=react-dark)](https://github.com/kyungmin08g)
