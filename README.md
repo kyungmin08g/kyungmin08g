@@ -3,7 +3,7 @@
   <b>세상에 필요한 가치를 제공하는 서비스를 만들고 싶은 고등학생ㆍ백엔드 개발자 지망생</b>
 </p>
 
-**👋 안녕하세요!**<br/>
+**👋 안녕하세요..!**<br/>
 저는 새로운 지식을 빠르게 학습하고,</br>
 도움이 되는 서비스를 만들기 위해 노력하는 일반고에 재학중인 백엔드 개발자 지망생이에요.</br>
 
@@ -33,7 +33,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
           <br/></div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Language </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
 </div>
