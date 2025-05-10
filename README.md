@@ -10,7 +10,7 @@
 저는 중학교 2학년 때부터 프로그래밍을 시작했어요. JavaScript, Swift, Java, Kotlin 등 다양한 언어를 경험하면서</br>
 Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 활용한 서버 개발과 사용자 경험을 고려한 효율적인 API 설계를 연구하고 있고,</br>
 대규모 트래픽을 처리할 수 있는 시스템을 설계하는 백엔드 엔지니어가 되고 싶은 미래 목표를 가지고 있어요.</br>
-
+    
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
@@ -33,8 +33,8 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
           <br/></div>
     </div>
     <div style="text-align: left;"> 
-    <h3> Language </h3>
-    <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&custom_title=kyungmin08g's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
     </div>
 </div>
