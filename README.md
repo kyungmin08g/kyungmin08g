@@ -41,7 +41,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
     </div><br>
     <div style="text-align: left;"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-      <div style="text-align: left;"> 
+      <div style="text-align: top;"> 
         <img src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin08g&layout=compact&bg_color=180,212830,00000000&title_color=ffffff&text_color=ffffff"/>
       </div>
