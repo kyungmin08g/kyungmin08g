@@ -14,7 +14,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
 <div align="left">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -29,7 +29,7 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java + Spring을 �
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
           <br/></div>
     </div>
 
