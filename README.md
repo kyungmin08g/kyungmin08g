@@ -35,7 +35,6 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java/Kotlin + Spri
     </div>
 
 <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h3>
     <div style="text-align: left;"> 
       <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h3>
       <div style="text-align: left;">
