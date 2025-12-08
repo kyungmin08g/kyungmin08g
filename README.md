@@ -37,11 +37,6 @@ Java가 가장 적성에 맞는다고 느꼈어요. 현재는 Java/Kotlin + Spri
 <div style="text-align: left;">
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h3>
     <div style="text-align: left;"> 
-       <a href="https://www.instagram.com/kyu_x99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="></a>
-       <a href="https://myblog0080.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="></a>
-       <a href=mailto:kyungmin3880@naver.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"></a>
-    </div>
-    <div style="text-align: left;"> 
       <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h3>
       <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=kyungmin08g&bg_color=ffffff&title_color=000000&text_color=000000"/>
